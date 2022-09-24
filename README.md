@@ -37,7 +37,7 @@ Program
 Developed by : BHARATHI PRIYAN .T
 Registration Number : 212221040028
 
-
+~~~
 import pandas as pd
 import numpy as np
 import seaborn as sns
@@ -53,8 +53,14 @@ sns.boxplot(x="Postal Code", data=df)
 sns.countplot(x="Postal Code", data=df)
 sns.distplot(df["Postal Code"])
 sns.histplot(x="Postal Code", data=df)
-
 ~~~
+
+
+
+
+
+
+
 OUTPUT
 
 DATA
