@@ -61,44 +61,136 @@ DATA
 ![image](https://user-images.githubusercontent.com/113762012/192079149-5948351c-88b4-48df-a99b-75ca3753ecfd.png)
 
 
+
+
+
+
+
+
 DATA HEAD
 ![image](https://user-images.githubusercontent.com/113762012/192079157-67b6b191-f368-4eb7-bdf2-35fd0e744156.png)
+
+
+
+
+
+
+
 
 
 DATA INFORMATION
 ![image](https://user-images.githubusercontent.com/113762012/192079161-28496a8f-56ef-4977-890e-9ac1e0eeefce.png)
 
 
+
+
+
+
+
+
+
+
 DATA DESCRIBE
 ![image](https://user-images.githubusercontent.com/113762012/192079172-4ecb34e9-3897-4d38-bfed-b15559ebc885.png)
+
+
+
+
+
+
+
+
+
+
 
 
 DATA NULL VALUES
 ![image](https://user-images.githubusercontent.com/113762012/192079192-17a3d0b9-ee52-427e-bb31-0ae807c4902f.png)
 
 
+
+
+
+
+
+
+
+
 DATA DATA TYPES
 ![image](https://user-images.githubusercontent.com/113762012/192079223-8b57b7fe-2e4b-4a6b-837a-9def178c53c8.png)
+
+
+
+
+
+
+
+
 
 
 DATA VALUE COUNT
 ![image](https://user-images.githubusercontent.com/113762012/192079229-75408d66-3756-4a3e-8628-773e375e6e73.png)
 
 
+
+
+
+
+
+
+
+
+
+
+
 BOXPLOT
 ![image](https://user-images.githubusercontent.com/113762012/192079235-d3f01e48-57dd-4771-b43d-0f69adb3b05f.png)
+
+
+
+
+
+
+
+
+
+
 
 
 COUNTPLOT
 ![image](https://user-images.githubusercontent.com/113762012/192079132-fbb233a6-5bf2-40a3-a11e-2a36ee648496.png)
 
 
+
+
+
+
+
+
+
+
+
+
 DISTRIBUTION PLOT
 ![image](https://user-images.githubusercontent.com/113762012/192079120-e7a4c49f-f7c2-4e2d-80dc-ca82816417ff.png)
 
 
+
+
+
+
+
+
+
+
+
 HISTOGRAM PLOT
 ![image](https://user-images.githubusercontent.com/113762012/192079108-3def3f76-6fb4-46bf-a7d8-75c1c6c76cd8.png)
+
+
+
+
+
 
 
 RESULT
